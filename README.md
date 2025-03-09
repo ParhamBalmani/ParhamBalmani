@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm parham balmani.<br>I love coding and teaching.<br>🔭 I’m currently working on python developing.<br><br>🌱 I’m currently learning advanced Python and HTML & CSS.<br><br>my close goal is to become a good backend developer<br>and my main goal is to become a Hack and security programer.
+Hi, I'm parham balmani.<br>I love coding and teaching.<br>🔭 I’m currently working on python developing.<br><br>🌱 I’m currently learning advanced Python and HTML & CSS.<br><br>my close goal is to become a good backend developer<br>and my main goal is to become a Hacked and security programer.
 
 
 ## 🌐 Socials:
