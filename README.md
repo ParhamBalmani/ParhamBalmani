@@ -1,8 +1,4 @@
 # 💫 About Me:
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7aD2d7hy9ktXNDP2/giphy.gif" width="200" alt="Hello Dark GIF">
-</div>
-
 👋 Hi, I'm **Parham Balmani**!  
 💻 I'm a passionate **Programmer** who loves coding and solving problems.  
 🔭 Currently working on **Python Development**.  
