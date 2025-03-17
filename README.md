@@ -8,7 +8,7 @@
 🔭 Currently working on **Python Development**.  
 🌱 Learning **Advanced Python** and **HTML & CSS**.  
 
-🎯 **Goal**: Become a skilled **Backend Developer** and contribute to open-source projects.  
+🎯 **Goal**: Become a skilled **Backend Developer** and perfect **Cybersecurity Specialist**  
 
 ---
 
