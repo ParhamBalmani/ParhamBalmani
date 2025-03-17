@@ -1,11 +1,11 @@
-# 💫 About Me:
-Hi, I'm **Parham Balmani**! 👋  
-I'm a passionate coder and love sharing my knowledge with others. 🚀  
-🔭 I’m currently working on **Python Development**.  
-🌱 I’m currently learning **Advanced Python** and **HTML & CSS**.  
+# 🚀 About Me:
+👋 Hi, I'm **Parham Balmani**!  
+💻 I'm a passionate coder and love sharing my knowledge with others.  
+🔭 Currently working on **Python Development**.  
+🌱 Learning **Advanced Python** and **HTML & CSS**.  
 
-🎯 My **close goal** is to become a skilled **Backend Developer**.  
-🌟 My **ultimate goal** is to become a **Hacker and Security Programmer**.  
+🎯 **Close Goal**: Become a skilled **Backend Developer**.  
+🌟 **Ultimate Goal**: Become a **Hacker and Security Programmer**.  
 
 ---
 
@@ -17,7 +17,7 @@ I'm a passionate coder and love sharing my knowledge with others. 🚀
 
 ---
 
-# 💻 Tech Stack:
+## 🛠️ Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -26,20 +26,20 @@ I'm a passionate coder and love sharing my knowledge with others. 🚀
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ParhamBalmani&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ParhamBalmani&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ParhamBalmani&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 📊 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ParhamBalmani&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ParhamBalmani&theme=dark&hide_border=false)<br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ParhamBalmani&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
-### 🏆 Achievements:
+## 🏆 Achievements:
 - 🌟 **Python Enthusiast**: Always exploring new Python libraries and frameworks.
 - 🎮 **Gamer**: Love playing strategic games and solving puzzles.
 - 📈 **Trader**: Passionate about analyzing markets and making smart trades.
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=ParhamBalmani&icon=0&color=0)](https://visitcount.itsvg.in)
+[![Visitors](https://visitcount.itsvg.in/api?id=ParhamBalmani&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
