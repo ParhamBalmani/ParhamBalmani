@@ -1,6 +1,6 @@
 # 💫 About Me:
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyY/giphy.gif" width="200" alt="Dark Hacking GIF">
+  <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="200" alt="Cool Guy GIF">
 </div>
 
 👋 Hi, I'm **Parham Balmani**!  
