@@ -8,8 +8,8 @@
 🔭 Currently working on **Python Development**.  
 🌱 Learning **Advanced Python** and **HTML & CSS**.  
 
-🎯 **close Goal**: Become a skilled **Backend Developer** and contribute to open-source projects.  
-🎯 **Main Goal**:Become a **Hacked and Security Programmer**.  
+🎯 **Goal**: Become a skilled **Backend Developer** and contribute to open-source projects.  
+
 ---
 
 ## 🌐 Socials:
@@ -19,7 +19,6 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/parhambalmani) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:parhambalmani.dev@gmail.com)
-
 ---
 
 ## 🛠️ Tech Stack:
