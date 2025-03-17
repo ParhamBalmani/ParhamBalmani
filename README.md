@@ -19,8 +19,6 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/parhambalmani) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:parhambalmani.dev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/parhambalmani) 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/parhambalmani)
 
 ---
 
@@ -45,7 +43,3 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ParhamBalmani&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ParhamBalmani&theme=dark&hide_border=false)<br/>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ParhamBalmani&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-[![Visitors](https://visitcount.itsvg.in/api?id=ParhamBalmani&icon=0&color=0)](https://visitcount.itsvg.in)
