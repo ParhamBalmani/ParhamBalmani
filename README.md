@@ -9,8 +9,7 @@
 🌱 Learning **Advanced Python** and **HTML & CSS**.  
 
 🎯 **close Goal**: Become a skilled **Backend Developer** and contribute to open-source projects.  
-
-🎯 **Maim Goal**:Become a **Hacked and Security Programmer**.  
+🎯 **Main Goal**:Become a **Hacked and Security Programmer**.  
 ---
 
 ## 🌐 Socials:
